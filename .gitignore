@@ -1,0 +1,6 @@
+target/
+hospital.db
+*.class
+.idea/
+*.iml
+.DS_Store
